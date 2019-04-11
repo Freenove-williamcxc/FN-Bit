@@ -1,0 +1,16 @@
+{
+    "target": "microbit",
+    "targetVersion": "1.3.7",
+    "editor": "blocksprj",
+    "name": "FN_Bit",
+    "meta": {},
+    "pubId": "",
+    "pubCurrent": false,
+    "id": "0cc892ae-1bc1-430f-9219-66b562561b7e",
+    "recentUse": 1554974753,
+    "modificationTime": 1554974753,
+    "path": "FN-Bit",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}
